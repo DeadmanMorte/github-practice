@@ -1,0 +1,12 @@
+body {background-color:darkslategray; 
+    color:rgb(0, 211, 0); 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: 550}
+h1 {color:white; font-family: Snell Round, cursive;} 
+.hanna {font-style:italic;
+    font-size:small;}
+li {border: orange;
+    border-radius: 18px;
+    margin-left: 500px; 
+    margin-right: 500px;}
+.tul {text-align: left; color: black; font-size: smaller;}
