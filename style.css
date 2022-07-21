@@ -5,8 +5,9 @@ body {background-color:darkslategray;
 h1 {color:white; font-family: Snell Round, cursive;} 
 .hanna {font-style:italic;
     font-size:small;}
-li {border: orange;
+li {border-color: orange;
     border-radius: 18px;
-    margin-left: 500px; 
-    margin-right: 500px;}
-.tul {text-align: left; color: black; font-size: smaller;}
+    margin-left: 820px; 
+    margin-right: 820px;
+    text-align: center}
+.tul {text-align:right; color: black; font-size: smaller; margin-top: 2000px}
